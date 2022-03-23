@@ -4,8 +4,6 @@
 
 ✨  A web front-end developer that shapes the future with code  ✨
 
-✨  欢迎关注我  ✨
-
 ✨  Welcome to follow me  ✨
 
 📖  [Blog](https://blog.ahuaaa.xyz/)  |  ✉️  Email
