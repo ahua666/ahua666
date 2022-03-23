@@ -6,7 +6,7 @@
 
 ✨  Welcome to follow me  ✨
 
-📖  [Blog](https://blog.ahuaaa.xyz/)  |  ✉️  Email
+📖  [Blog](https://blog.ahuaaa.xyz/)  |  ✉️  [Email](ahua6a66@163.com)
 <!--
 **ahua666/ahua666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
