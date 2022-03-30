@@ -8,7 +8,7 @@
 
 📖  [Blog](https://blog.ahuaaa.xyz/)  |  ✉️  [Email](mailto:ahua6a66@163.com)
 ### 🤫 Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahua666)](https://github.com/anuraghazra/github-readme-stats)
+[![Star](https://github-readme-stats.vercel.app/api?username=ahua666)](https://github.com/ahua666/)
 
 <!--
 **ahua666/ahua666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
