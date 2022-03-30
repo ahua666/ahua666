@@ -8,8 +8,8 @@
 
 📖  [Blog](https://blog.ahuaaa.xyz/)  |  ✉️  [Email](mailto:ahua6a66@163.com)
 ### 🤫 Github Status
-  <a href="https://github.com/martinageradams"><img src="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ahua666&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
-  <a href="https://github.com/martinageradams"><img src="" height="195" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahua666&amp;count_private=true&amp;hide=scss,css,shell&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahua666)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ahua666/ahua666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
