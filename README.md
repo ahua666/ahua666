@@ -9,7 +9,7 @@
 📖  [Blog](https://blog.ahuaaa.xyz/)  |  ✉️  [Email](mailto:ahua6a66@163.com)
 ### 🤫 Github Status
 [![Star](https://github-readme-stats.vercel.app/api?username=ahua666)](https://github.com/ahua666/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahua666&layout=compact&theme=dark)](https://github.com/ahua666/)
 
 
 <!--
