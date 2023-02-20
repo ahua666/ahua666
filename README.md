@@ -2,7 +2,7 @@
 
 👋🏼  Hi I'm Star
 
-✨  A web front-end developer that shapes the future with code  ✨
+✨  A Full stack developer that shapes the future with code  ✨
 
 ✨  Welcome to follow me  ✨
 
