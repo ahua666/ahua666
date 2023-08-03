@@ -8,7 +8,7 @@
 
 ✨  Welcome to follow me  ✨
 
-📖  [Blog](https://blog.ahuaaa.cn/)  |  ✉️  [Email](mailto:mail@ahuaaa.tech)
+📖  [Blog](https://blog.ahuaaa.cn/)  |  ✉️  [Email](mailto:mail@ahuaaa.tech) |  ✉️  [Email](mailto:3156027735@qq.com)
 ### 🤫 Github Status
 [![Star](https://github-readme-stats.vercel.app/api?username=ahua666&layout=compact&theme=dark&show_icons=true&count_private=true)](https://github.com/ahua666/)
 <!-- ### 🤫 langs
