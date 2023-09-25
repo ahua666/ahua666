@@ -14,7 +14,9 @@
 <!-- ### 🤫 langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahua666&layout=compact&theme=dark)](https://github.com/ahua666/) -->
 <!-- 贪吃蛇代码贡献图 -->
+<!--
 <div align="center"><img src="https://raw.githubusercontent.com/ahua666/ahua666/main/assets/github-contribution-grid-snake.svg" /></div>
+-->
 
 <!--
 **ahua666/ahua666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
