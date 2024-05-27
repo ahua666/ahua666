@@ -19,6 +19,7 @@
 🌱  I am currently studying Flutter 🌱
 
 ✨  Welcome to follow me  ✨
+![Uploading 332d051c9bfae86fb75b6014df2b05e.jpg…]()
 
 📖  [Blog](https://blog.ahuaaa.cn/)  |  ✉️  [Email](mailto:mail@ahuaa.tech) |  ✉️  [Email](mailto:3156027735@qq.com)
 ### 🤫 Github Status
