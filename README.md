@@ -20,10 +20,8 @@
 
 ✨  Welcome to follow me  ✨
 
-<img src="https://github.com/ahua666/ahua666/blob/main/assets/332d051c9bfae86fb75b6014df2b05e.jpg?raw=true" width="200px" height="250px">
 
-
-📖  [Blog](https://blog.ahuaaa.cn/)  |  ✉️  [Email](mailto:mail@ahuaa.tech) |  ✉️  [Email](mailto:3156027735@qq.com)
+📖  [Blog](https://blog.ahuaaa.cn/) |  ✉️  [Email](mailto:ahua6a66@gmail.com)
 ### 🤫 Github Status
 [![Star](https://github-readme-stats.vercel.app/api?username=ahua666&layout=compact&theme=dark&show_icons=true&count_private=true)](https://github.com/ahua666/)
 <!-- ### 🤫 langs
